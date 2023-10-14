@@ -13,8 +13,8 @@ To perform Matrix addition with unified memory and check its performance with nv
 
 ## OUTPUT
 ~~~
-NAME:V.A.JITHENDRA
-REG.NO:212221230043
+NAME:Thirugnanamoorthi G
+REG.NO:212221230117
 ~~~
 ### With Memset
 ```cuda
